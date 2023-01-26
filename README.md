@@ -1,4 +1,4 @@
-# CSCLAB1---Dylan_Moshier
+# CSC101_LAB1
 Dylan Moshier's submission for Lab #1.
 
 Notes:
